@@ -116,7 +116,7 @@
 
 //           // Slide 1: Title slide
 //           let slide1 = pres.addSlide();
-//           slide1.addText("InfraHive Consolidated P&L", {
+//           slide1.addText("ProfessionallyAi Consolidated P&L", {
 //             x: 1,
 //             y: 1.5,
 //             w: '80%',
@@ -253,7 +253,7 @@
 //         </head>
 //         <body>
 //           <div class="slide">
-//             <div class="title">InfraHive Consolidated P&L</div>
+//             <div class="title">ProfessionallyAi Consolidated P&L</div>
 //             <div class="subtitle">As of 13 May 2025</div>
 //           </div>
 //           <div class="slide">
@@ -567,7 +567,7 @@ const MyReports = () => {
 
           // Slide 1: Title slide
           let slide1 = pres.addSlide();
-          slide1.addText("InfraHive Consolidated P&L", {
+          slide1.addText("ProfessionallyAi Consolidated P&L", {
             x: 1,
             y: 1.5,
             w: "80%",
@@ -709,7 +709,7 @@ const MyReports = () => {
         </head>
         <body>
           <div class="slide">
-            <div class="title">InfraHive Consolidated P&L</div>
+            <div class="title">ProfessionallyAi Consolidated P&L</div>
             <div class="subtitle">As of 13 May 2025</div>
           </div>
           <div class="slide">
@@ -1081,7 +1081,7 @@ export default MyReports;
 
 //           // Slide 1: Title slide
 //           let slide1 = pres.addSlide();
-//           slide1.addText("InfraHive Consolidated P&L", {
+//           slide1.addText("ProfessionallyAi Consolidated P&L", {
 //             x: 1,
 //             y: 1.5,
 //             w: '80%',
@@ -1218,7 +1218,7 @@ export default MyReports;
 //         </head>
 //         <body>
 //           <div class="slide">
-//             <div class="title">InfraHive Consolidated P&L</div>
+//             <div class="title">ProfessionallyAi Consolidated P&L</div>
 //             <div class="subtitle">As of 13 May 2025</div>
 //           </div>
 //           <div class="slide">

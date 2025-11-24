@@ -278,7 +278,7 @@ const KnowledgeManagementPage = () => {
             
             {/* Description */}
             <p className="text-base text-gray-600">
-              InfraHive works best when you can search across all the tools you
+              ProfessionallyAi works best when you can search across all the tools you
               and your team use every day. Connect all the tools you need by
               clicking on each and following the steps shown.
             </p>

@@ -192,11 +192,11 @@
 
 //   return (
 //     <div className="w-64 bg-gray-50 border-r border-gray-200 h-screen overflow-y-auto shadow-sm flex flex-col">
-//       {/* InfraHive Logo with left alignment */}
+//       {/* ProfessionallyAi Logo with left alignment */}
 //       <div className="flex items-center px-6 pt-4 pb-4.5 bg-gray-100">
 //         <img 
-//           src="/assets/images/infrahive.png" 
-//           alt="InfraHive Logo" 
+//           src="/assets/images/ProfessionallyAi.png" 
+//           alt="ProfessionallyAi Logo" 
 //           className="h-10 w-auto"
 //         />
 //       </div>
@@ -384,11 +384,11 @@
 
 //   return (
 //     <div className="w-64 bg-gray-50 border-r border-gray-200 h-screen overflow-y-auto shadow-sm flex flex-col">
-//       {/* InfraHive Logo with left alignment */}
+//       {/* ProfessionallyAi Logo with left alignment */}
 //       <div className="flex items-center px-6 pt-4 pb-4.5 bg-gray-100">
 //         <img 
-//           src="/assets/images/infrahive.png" 
-//           alt="InfraHive Logo" 
+//           src="/assets/images/ProfessionallyAi.png" 
+//           alt="ProfessionallyAi Logo" 
 //           className="h-10 w-auto"
 //         />
 //       </div>
@@ -595,12 +595,12 @@ const Sidebar = ({ activeView, onNavigate, onLogout }) => {
 
   return (
     <div className="w-64 bg-gray-50 border-r border-gray-200 h-screen overflow-y-auto shadow-sm flex flex-col">
-      {/* InfraHive Logo with left alignment */}
+      {/* ProfessionallyAi Logo with left alignment */}
       <div className="flex items-center px-6 pt-4 pb-4.5 bg-gray-100">
         <img 
-          src="/assets/images/infrahive.png" 
-          alt="InfraHive Logo" 
-          className="h-10 w-auto"
+          src="/assets/images/ProfessionallyAi-Photoroom.png" 
+          alt="ProfessionallyAi Logo" 
+          className="h-20 w-auto"
         />
       </div>
       

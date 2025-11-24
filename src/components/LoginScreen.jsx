@@ -75,12 +75,12 @@ const LoginScreen = ({ onLogin }) => {
       {/* Right side with login form */}
       <div className="flex-1 flex flex-col items-center justify-center bg-white">
         <div className="max-w-md w-full px-8">
-          {/* InfraHive Logo */}
+          {/* ProfessionallyAi Logo */}
           <div className="mb-7 flex justify-center">
             <img 
-              src="../../public/assets/images/infrahive.png" 
-              alt="InfraHive Logo" 
-              className="h-12"
+              src="../../public/assets/images/ProfessionallyAi.png" 
+              alt="ProfessionallyAi Logo" 
+              className="h-40"
               onError={(e) => {
                 console.error("Error loading logo", e);
                 e.target.onerror = null;
@@ -165,7 +165,7 @@ const LoginScreen = ({ onLogin }) => {
           
           <div className="mt-8 text-center">
             <p className="text-sm text-gray-500">
-              &copy; 2025 InfraHive Financial Services. All rights reserved.
+              &copy; 2025 ProfessionallyAi Financial Services. All rights reserved.
             </p>
           </div>
         </div>
